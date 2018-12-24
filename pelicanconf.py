@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Louis'
 SITENAME = 'Cuisine de Louis'
-SITEURL = ''
+SITEURL = 'https://louis.mushland.xyz/cuisine'
 
 PATH = 'content'
 
