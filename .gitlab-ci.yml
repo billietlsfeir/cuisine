@@ -18,9 +18,10 @@ build:
     - "pelican ${CI_PROJECT_DIR}/content -o ${CI_PROJECT_DIR}/output -s ${CI_PROJECT_DIR}/pelicanconf.py --relative-urls"
 
 deploy:
-  image: "python:3-slim"
+  image: "alpine:latest"
   stage: "deploy"
   only: 
     - "master"
   script:
+    - "apk add --update openssh"
     - "echo \"put -r output www\" | sshpass -p \"${sftp_password}\" sftp ${sftp_login}@louis.mushland.xyz"
