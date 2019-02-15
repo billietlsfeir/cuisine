@@ -24,4 +24,4 @@ deploy:
     - "master"
   script:
     - "apk add --update openssh sshpass"
-    - "echo \"put -r output www\" | sshpass -p \"${sftp_password}\" sftp ${sftp_login}@louis.mushland.xyz"
+    - "echo \"put -r output www\" | sshpass -p \"${sftp_password}\" sftp -oStrictHostKeyChecking=no ${sftp_login}@louis.mushland.xyz"
