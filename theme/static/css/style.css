@@ -36,3 +36,13 @@ pre {
     margin: 2em 1em 2em 4em;
 }
 
+@media print{
+    .no-print, .no-print *{
+        display: none !important;
+    }
+    body {
+        border: none;
+        margin: 0;
+        width: 100%;
+    }
+}
