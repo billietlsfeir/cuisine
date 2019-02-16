@@ -1,9 +1,8 @@
 body {
-  font-family: monospace;
+  font-family: sans-serif;
   font-size: 100%;
   background-color: white;
   color: #111;
-  width: 80%;
   min-height: 500px;
   padding: 1em;
   margin: 5% 10% 5% 10%;
@@ -16,12 +15,20 @@ a:link    { color: blue; text-decoration: none;      }
 a:hover   { color: blue; text-decoration: underline; }
 a:visited { color: blue;                             }
 
-h1 a { color: inherit !important }
-h2 a { color: inherit !important }
-h3 a { color: inherit !important }
-h4 a { color: inherit !important }
-h5 a { color: inherit !important }
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
 h6 a { color: inherit !important }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { font-family: serif }
+
 
 #menu li {
     display: inline;
@@ -34,6 +41,10 @@ h6 a { color: inherit !important }
 
 pre {
     margin: 2em 1em 2em 4em;
+}
+
+footer#contentinfo {
+    margin-top: 5em;
 }
 
 @media print{
