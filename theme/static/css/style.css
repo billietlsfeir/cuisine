@@ -47,6 +47,16 @@ footer#contentinfo {
     margin-top: 5em;
 }
 
+header {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+#post-list address {
+    margin: 1em;
+}
+
 @media print{
     .no-print, .no-print *{
         display: none !important;
