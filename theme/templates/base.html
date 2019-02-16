@@ -33,10 +33,10 @@
 </head>
 
 <body id="index" class="home">
-        <header id="banner" class="body">
+        <header id="banner" class="body no-print">
                 <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
         </header><!-- /#banner -->
-        <nav id="menu"><ul>
+        <nav id="menu" class="no-print"><ul>
         {% for title, link in MENUITEMS %}
             <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
@@ -53,7 +53,7 @@
         </ul></nav><!-- /#menu -->
         {% block content %}
         {% endblock %}
-        <footer id="contentinfo" class="body">
+        <footer id="contentinfo" class="body no-print">
                 <address id="about" class="vcard body">
                 Site motorisé avec <a href="http://getpelican.com/">Pelican</a>.
                 </address><!-- /#about -->
