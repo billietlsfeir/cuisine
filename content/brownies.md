@@ -16,7 +16,7 @@ Préparation 30min - Cuisson 25min - Prix €€ - Difficulté Facile
 
 # Instructions
 
-Préchauffez le four à 200°C.
+Préchauffez le four à 160°C.
 
 Faites fondre dans une casserole le chocolat et le beurre.
 
