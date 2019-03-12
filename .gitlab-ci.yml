@@ -2,24 +2,31 @@ stages:
   - "build"
   - "deploy"
 
-cache:
-  key: "${CI_COMMIT_SHA}"
-  paths:
-    - "${CI_PROJECT_DIR}/output"
-
 build:
   image: "python:3-slim"
   stage: "build"
+  variables:
+    PYTHONPATH: "${CI_PROJECT_DIR}/pip"
+    XDG_CACHE_HOME: "${CI_PROJECT_DIR}/pip-cache"
+  cache:
+    paths:
+      - "${CI_PROJECT_DIR}/pip"
+      - "${CI_PROJECT_DIR}/pip-cache"
+  artifacts:
+    name: "${CI_COMMIT_SHA}"
+    when: "on_success"
+    expire_in: "10 mins"
+    paths:
+      - "${CI_PROJECT_DIR}/output"
   script:
-    - "pip install virtualenv"
-    - "virtualenv ."
-    - "source ./bin/activate"
-    - "pip install -r requirements.txt"
-    - "pelican ${CI_PROJECT_DIR}/content -o ${CI_PROJECT_DIR}/output -s ${CI_PROJECT_DIR}/pelicanconf.py --relative-urls"
+    - "pip install -r requirements.txt -t pip"
+    - "${CI_PROJECT_DIR}/pip/bin/pelican ${CI_PROJECT_DIR}/content -o ${CI_PROJECT_DIR}/output -s ${CI_PROJECT_DIR}/pelicanconf.py --relative-urls"
 
 deploy:
   image: "alpine:latest"
   stage: "deploy"
+  dependencies:
+    - "build"
   only: 
     - "master"
   script:
