@@ -1,24 +1,24 @@
 Title: Tarte aux pommes normande
 Date: 2010-12-03 10:20
-Category: Patisserie
+Category: Pâtisserie
 Tags: Dessert,Calories
 
-Préparation 30min - Cuisson 40min - Prix € - Difficulté Facile
+Préparation 30 min - Cuisson 40 min - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 1 cuiller à café de canelle en poudre
-- 2 oeufs
-- 200g de crème épaisse
-- 150g de sucre
-- 1Kg de pommes à cuire
-- 1 pâte feuilleté
+- 1 cuiller à café de cannelle en poudre
+- 2 œufs
+- 200 g de crème épaisse
+- 150 g de sucre
+- 1 Kg de pommes à cuire
+- 1 pâte à tarte feuilletée
 
 # Instructions
 
-Préchauffez le four à 180°C.
+Préchauffez le four à 180 °C.
 
-Mélangez dans un saladier la canelle, les oeufs, la crème et le sucre.
+Mélangez dans un saladier la cannelle, les œufs, la crème et le sucre.
 
 Épluchez et coupez les pommes en dés.
 

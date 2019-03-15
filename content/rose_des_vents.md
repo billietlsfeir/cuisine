@@ -3,14 +3,14 @@ Date: 2010-12-03 10:20
 Category: Dessert
 Tags: Dessert,Chocolat
 
-Préparation 1h - Prix € - Difficulté Facile
+Préparation 1 h - Prix € - Difficulté Facile
 
 # Ingrédients
 
-- 100 de chocolat au lait
-- 25g de végétaline
-- 40g de sucre glace
-- 40g de corn flakes
+- 100 g de chocolat au lait
+- 25 g de végétaline
+- 40 g de sucre glace
+- 40 g de corn flakes
 
 # Instructions
 

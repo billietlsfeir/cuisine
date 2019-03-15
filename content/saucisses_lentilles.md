@@ -3,11 +3,11 @@ Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat
 
-Préparation 10min - Cuisson 30min - Prix € - Difficulté Facile
+Préparation 10 min - Cuisson 30 min - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 250g lentilles vertes
+- 250 g lentilles vertes
 - 4 saucisses de morteau
 - 2 carottes
 - 1 gros oignon

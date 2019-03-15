@@ -3,15 +3,15 @@ Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat,Végétarien,Végétalien,Sauce,Exotique
 
-Préparation 30min - Cuisson 1h - Prix €€ - Difficulté Facile
+Préparation 30 min - Cuisson 1 h - Prix €€ - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
 - 1 flacon de curry
-- 250g tomates cerise
+- 250 g tomates cerise
 - 1 poivron vert
 - 1 oignon jaune
-- 250g de haricot mungo
+- 250 g de pousses de soja
 - purée de piment
 - crème de coco
 - huile d'olive
@@ -30,6 +30,6 @@ Ajoutez de la purée de piment.
 
 Ajoutez les oignons et les poivrons. Faites chauffer à petit bouillon 5 minutes.
 
-Ajoutez les tomates cerise et les haricot mungo. Faites chauffer à petit bouillon 5 minutes.
+Ajoutez les tomates cerise et les pousses de soja. Faites chauffer à petit bouillon 5 minutes.
 
 Servez avec du riz.

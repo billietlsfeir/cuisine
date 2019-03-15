@@ -3,16 +3,16 @@ Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat,Été,Accompagnement
 
-Préparation 20min - Repos 1nuit - Prix € - Difficulté Facile
+Préparation 20 min - Repos 1 nuit - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 500g de semoule de blé
+- 500 g de semoule de blé
 - 4 citrons
 - 4 tomates
 - 2 oignons
 - 1 poivron vert
-- 12cL d'huile d'olive
+- 12 cL d'huile d'olive
 - 1 flacon de menthe séchée
 - 1 pincée de sel
 

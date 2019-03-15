@@ -3,20 +3,20 @@ Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat,Végétarien,Fromage,Italie
 
-Préparation 15min - Cuisson 45min - Prix € - Difficulté Facile
+Préparation 15 min - Cuisson 45 min - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 100g de farine
-- 100g de parmesan
-- 50g de chapelure
-- 100g de beurre salé mou
-- 1Kg de tomates type torino
+- 100 g de farine
+- 100 g de parmesan
+- 50 g de chapelure
+- 100 g de beurre salé mou
+- 1 Kg de tomates type torino
 - 1 pot de pesto
 
 # Instructions
 
-Préchauffez le four à 180°C.
+Préchauffez le four à 180 °C.
 
 Pelez et videz les tomates de leurs jus. Détaillez-les et disposez-les au fond d'un plat à four.
 

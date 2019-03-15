@@ -3,22 +3,22 @@ Date: 2010-12-03 10:20
 Category: Patisserie
 Tags: Dessert,Calories,Tradition
 
-Préparation 45min - Cuisson 50min - Prix €€ - Difficulté Moyen
+Préparation 45 min - Cuisson 50 min - Prix €€ - Difficulté Moyen
 
-# Ingredients
+# Ingrédients
 
-- 4 oeufs + 1 pour la décoration
-- 200g de sucre
-- 200g de poudre d'amandes
-- 80g de beurre mou
+- 4 œufs + 1 pour la décoration
+- 200 g de sucre
+- 200 g de poudre d'amandes
+- 80 g de beurre mou
 - 1 cuiller à soupe d'amaretto
-- 2 pâtes à tarte feuilletés
+- 2 pâtes à tarte feuilletées
 
 # Instructions
 
-Préchauffez votre four à 180°C.
+Préchauffez votre four à 180 °C.
 
-Battez les oeufs avec le sucre jusqu'à blanchissement.
+Battez les œufs avec le sucre jusqu'à blanchissement.
 
 Ajoutez la poudre d'amande, battez.
 
@@ -26,8 +26,8 @@ Ajoutez le beurre, battez.
 
 Ajoutez l'amaretto, battez.
 
-Déroulez une pâte feuilleté sur une plaque, versez-y le mélange, mouillez les bords de la pâte et couvrez avec la deuxième pâte feuilleté.
+Déroulez une pâte feuilletée sur une plaque, versez-y le mélange, mouillez les bords de la pâte et couvrez avec la deuxième pâte feuilleté.
 
-Scellez la galette, décorez là en taillant délicatement dans la pâte du dessus, enduisez d'oeuf battu.
+Scellez la galette, décorez là en taillant délicatement dans la pâte du dessus, enduisez d'œuf battu.
 
 Enfournez 50 minutes.
