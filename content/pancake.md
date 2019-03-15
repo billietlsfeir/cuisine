@@ -1,18 +1,18 @@
 Title: Pancakes
 Date: 2010-12-03 10:20
 Category: Patisserie
-Tags: patisserie,Petit déjeuner
+Tags: pâtisserie,Petit déjeuner
 
-Préparation 15min - Cuisson 30min - Prix € - Difficulté Facile
+Préparation 15 min - Cuisson 30 min - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 3 oeufs
-- 2 cuiller à soupe de sucre
+- 3 œufs
+- 2 cuillers à soupe de sucre
 - 1 pincée de sel
-- 175g de farine
-- 20cL de lait
-- 3 cuiller à soupe d'huile
+- 175 g de farine
+- 20 cL de lait
+- 3 cuillers à soupe d'huile
 - 1 sachet de levure chimique
 
 # Instructions

@@ -1,16 +1,16 @@
 Title: Riz vinaigré
 Date: 2010-12-03 10:20
 Category: Plat
-Tags: Salade,Légumes,Été,Italie
+Tags: Accompagnement,Japon,Exotique
 
-Préparation 30min - Cuisson 30min - Prix €€ - Difficulté Facile
+Préparation 30 min - Cuisson 30 min - Prix €€ - Difficulté Facile
 
 # Ingrédients
 
-- 150g de riz à sushi (ou riz rond)
-- 3 cuiller à soupe de vinaigre de riz
-- 3 cuillet à café de sucre
-- 1 cuillet à café de sel
+- 150 g de riz à sushi (ou riz rond)
+- 3 cuillers à soupe de vinaigre de riz
+- 3 cuillers à café de sucre
+- 1 cuiller à café de sel
 
 # Instructions
 

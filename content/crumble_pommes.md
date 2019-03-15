@@ -3,23 +3,24 @@ Date: 2010-12-03 10:20
 Category: Dessert
 Tags: Dessert,Fruits,Classique
 
-Préparation 30min - Cuisson 1h - Prix € - Difficulté Facile
+Préparation 30 min - Cuisson 1 h - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 1Kg de pommes à cuire type Boskoop
-- 2x60g de sucre
-- 2 cuiller à café de jus d'orange
-- 180g de farine
-- 90g de beurre salé mou
+- 1 Kg de pommes à cuire type Boskoop
+- 2 × 60 g de sucre
+- 2 cuillers à café de jus d'orange
+- 180 g de farine
+- 90 g de beurre salé mou
 
 # Instructions
 
-Préchauffez le four à 145°C.
+Préchauffez le four à 145 °C.
 
-Épluchez et détaillez les pommes. Faites-lez cuire dans un fait-tout avec le jus d'orange et 60g de sucre jusqu'à ce qu'elles commencent à ramolir.
+Épluchez et détaillez les pommes.
+Faites-lez cuire dans un fait-tout avec le jus d'orange et 60 g de sucre jusqu'à ce qu'elles commencent à ramollir.
 
-Mélangez dans un saladier la farine, le beurre et 60g de sucre afin d'obtenir un sable grossier.
+Mélangez dans un saladier la farine, le beurre et 60 g de sucre afin d'obtenir un sable grossier.
 
 Disposez dans un plat à four les pommes, puis couvrez avec le sable.
 

@@ -3,9 +3,9 @@ Date: 2010-12-03 10:20
 Category: Plat
 Tags: Soupe,Légumes,Saint
 
-Préparation 30min - Prix € - Difficulté Facile
+Préparation 30 min - Prix € - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
 - 6 tomates
 - 1 concombre
@@ -13,9 +13,9 @@ Préparation 30min - Prix € - Difficulté Facile
 - 1 poivron jaune
 - 2 petits oignons
 - 2 gousses d'ail
-- 6 cuiller à soupe de jus de citron
+- 6 cuillers à soupe de jus de citron
 - 1 petit verre d'huile d'olive
-- 2 cuiller à soupe de vinaigre balsamique
+- 2 cuillers à soupe de vinaigre balsamique
 - 2 verres d'eau
 - basilic, piment, sel, poivre
 
@@ -29,6 +29,6 @@ Mixez les légumes avec le jus de citron, l'huile d'olive et le vinaigre balsami
 
 Ajoutez basilic, piment, sel et poivre selon votre goût, mixez.
 
-Délayez avec de l'eau jusqu'à avoir la consistence voulue, mixez.
+Délayez avec de l'eau jusqu'à avoir la consistance voulue, mixez.
 
 Laissez reposer 1 journée au frigo.

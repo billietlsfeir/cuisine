@@ -1,28 +1,28 @@
 Title: Brownies
 Date: 2010-12-03 10:20
-Category: Patisserie
+Category: Pâtisserie
 Tags: Dessert,Chocolat,Calories
 
-Préparation 30min - Cuisson 25min - Prix €€ - Difficulté Facile
+Préparation 30 min - Cuisson 25 min - Prix €€ - Difficulté Facile
 
-# Ingredients
+# Ingrédients
 
-- 200g de lait concentré sucré
-- 200g de chocolat noir
-- 150g de beurre salé
-- 100g de farine
-- 3 oeufs
-- 100g noix
+- 200 g de lait concentré sucré
+- 200 g de chocolat noir
+- 150 g de beurre salé
+- 100 g de farine
+- 3 œufs
+- 100 g noix
 
 # Instructions
 
-Préchauffez le four à 160°C.
+Préchauffez le four à 160 °C.
 
 Faites fondre dans une casserole le chocolat et le beurre.
 
-Mélangez dans un saladier les oeufs avec le lait concentré, puis ajoutez peu à peu la farine.
+Mélangez dans un saladier les œufs avec le lait concentré, puis ajoutez peu à peu la farine.
 
-Ajoutez au mélange d'oeufs le mélange de chocolat, puis les noix concassés.
+Ajoutez au mélange d'œufs le mélange de chocolat, puis les noix concassées.
 
 Enfournez pendant 20 minutes, puis laissez dans le four éteint 5 minutes.
 
