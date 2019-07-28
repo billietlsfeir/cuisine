@@ -2,8 +2,12 @@ Title: Brioche
 Date: 2010-12-03 10:20
 Category: Pâtisserie
 Tags: Petit-dej
-
-Préparation 2 h - Repos 45 min - Cuisson 25 min - Prix € - Difficulté Moyen
+Preparation: 2 h
+Repos: 45 min
+Cuisson: 25 min
+Prix: €
+Difficulte: Moyen
+Photo: false
 
 # Ingrédients
 

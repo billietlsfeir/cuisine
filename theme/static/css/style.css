@@ -63,6 +63,10 @@ header {
     margin: 1em;
 }
 
+div.entry-content {
+    margin-top: 1em;
+}
+
 @media print{
     .no-print, .no-print *{
         display: none !important;
@@ -71,5 +75,8 @@ header {
         border: none;
         margin: 0;
         width: 100%;
+    }
+    img {
+        display: none;
     }
 }

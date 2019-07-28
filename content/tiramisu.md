@@ -2,8 +2,10 @@ Title: Tiramisu
 Date: 2010-12-03 10:20
 Category: Dessert
 Tags: Dessert,Calories
-
-Préparation 30 min - Repos 4 h - Prix €€ - Difficulté Facile
+Preparation: 30 min
+Repos: 4 h
+Prix: €€
+Difficulte: Facile
 
 # Ingrédients
 

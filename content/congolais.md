@@ -2,8 +2,11 @@ Title: Congolais
 Date: 2010-12-03 10:20
 Category: Biscuits
 Tags: Biscuit,Sucre
-
-Préparation 20 min - Cuisson 10 min - Prix €€ - Difficulté Facile
+Preparation: 20 min
+Cuisson: 10 min
+Prix: €€
+Difficulte: Facile
+Photo: false
 
 # Ingrédients
 

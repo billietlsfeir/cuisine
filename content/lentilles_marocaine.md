@@ -2,8 +2,10 @@ Title: Lentilles à la marocaine
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Exotique
-
-Préparation 10 min - Cuisson 45 min - Prix € - Difficulté Facile
+Preparation: 10 min
+Cuisson: 45 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

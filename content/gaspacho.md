@@ -2,8 +2,10 @@ Title: Gaspacho
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Soupe,Légumes,Saint
-
-Préparation 30 min - Prix € - Difficulté Facile
+Preparation: 30 min
+Prix: €
+Difficulte: 1
+Photo: false
 
 # Ingrédients
 

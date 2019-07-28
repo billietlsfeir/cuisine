@@ -2,8 +2,11 @@ Title: Cookies
 Date: 2010-12-03 10:20
 Category: Biscuits
 Tags: Biscuit,Sucre
-
-Préparation 20 min - Repos 36 h - Cuisson 15 min - Prix €€ - Difficulté Facile
+Preparation: 20 min
+Repos: 36 h
+Cuisson: 15 min
+Prix: €€
+Difficulte: Facile
 
 # Ingrédients
 

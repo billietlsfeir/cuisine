@@ -2,8 +2,9 @@ Title: Salade de tomates
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Salade,Légumes,Été,Italie
-
-Préparation 30 min - Prix €€ - Difficulté Facile
+Preparation: 30 min
+Prix: €€
+Difficulte: Facile
 
 # Ingrédients
 

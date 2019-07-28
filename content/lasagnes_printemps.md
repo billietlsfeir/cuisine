@@ -2,8 +2,10 @@ Title: Lasagnes de printemps
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Légumes,Été,Végétarien
-
-Préparation 10 min - Cuisson 1 h - Prix €€ - Difficulté Moyen
+Preparation: 10 min
+Cuisson: 1 h
+Prix: €€
+Difficulte: Moyen
 
 # Ingrédients
 

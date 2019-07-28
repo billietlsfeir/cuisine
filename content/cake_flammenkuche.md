@@ -2,8 +2,11 @@ Title: Cake façon flammekueche
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat,Apéritif
-
-Préparation 15 min - Cuisson 45 min - Prix € - Difficulté Facile
+Preparation: 15 min
+Cuisson: 45 min
+Prix: €
+Difficulte: Facile
+Photo: false
 
 # Ingrédients
 

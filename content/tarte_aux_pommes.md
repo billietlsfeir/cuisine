@@ -2,8 +2,10 @@ Title: Tarte aux pommes normande
 Date: 2010-12-03 10:20
 Category: Pâtisserie
 Tags: Dessert,Calories
-
-Préparation 30 min - Cuisson 40 min - Prix € - Difficulté Facile
+Preparation: 30 min
+Cuisson: 40 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

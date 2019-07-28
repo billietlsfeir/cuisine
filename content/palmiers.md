@@ -2,8 +2,10 @@ Title: Palmiers
 Date: 2010-12-03 10:20
 Category: Biscuits
 Tags: Biscuit,Sucre,Classique
-
-Préparation 45 min - Cuisson 15 min - Prix € - Difficulté Facile
+Preparation: 45 min
+Cuisson: 15 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

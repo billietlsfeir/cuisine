@@ -2,8 +2,10 @@ Title: Galette à la frangipane
 Date: 2010-12-03 10:20
 Category: Patisserie
 Tags: Dessert,Calories,Tradition
-
-Préparation 45 min - Cuisson 50 min - Prix €€ - Difficulté Moyen
+Preparation: 45 min
+Cuisson: 50 min
+Prix: €€
+Difficulte: Moyen
 
 # Ingrédients
 

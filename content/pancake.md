@@ -2,8 +2,10 @@ Title: Pancakes
 Date: 2010-12-03 10:20
 Category: Patisserie
 Tags: pâtisserie,Petit déjeuner
-
-Préparation 15 min - Cuisson 30 min - Prix € - Difficulté Facile
+Preparation: 15 min
+Cuisson: 30 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 
