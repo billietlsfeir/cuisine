@@ -2,8 +2,10 @@ Title: Fougasse
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat
-
-Préparation 1 h 30 min - Cuisson 20 min - Prix € - Difficulté Moyen
+Preparation: 1 h 30 min
+Cuisson: 20 min
+Prix: €
+Difficulte: Moyen
 
 # Ingrédients
 

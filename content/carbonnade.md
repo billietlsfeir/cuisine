@@ -2,8 +2,11 @@ Title: Carbonnade flamande
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Sauce,Tradition,Calories
-
-Préparation 10 min - Cuisson 4 h - Prix €€ - Difficulté Facile
+Preparation: 10 min
+Cuisson: 4 h
+Prix: €€
+Difficulte: Facile
+Photo: false
 
 # Ingrédients
 

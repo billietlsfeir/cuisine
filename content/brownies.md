@@ -2,8 +2,11 @@ Title: Brownies
 Date: 2010-12-03 10:20
 Category: Pâtisserie
 Tags: Dessert,Chocolat,Calories
-
-Préparation 30 min - Cuisson 25 min - Prix €€ - Difficulté Facile
+Preparation: 30 min
+Cuisson: 25 min
+Prix: €€
+Difficulte: Facile
+Photo: false
 
 # Ingrédients
 

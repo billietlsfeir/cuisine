@@ -2,8 +2,11 @@ Title: Baklavas
 Date: 2010-12-03 10:20
 Category: Biscuits
 Tags: Biscuit,Calories,Exotique
-
-Préparation 45 min - Cuisson 15 min - Prix € - Difficulté Facile
+Preparation: 45 min
+Cuisson: 15 min
+Prix: €
+Difficulte: Facile
+Photo: false
 
 # Ingrédients
 

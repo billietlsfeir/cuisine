@@ -2,8 +2,10 @@ Title: Pudding
 Date: 2010-12-03 10:20
 Category: Dessert
 Tags: Dessert,Calories,Végétarien
-
-Préparation 30 min - Cuisson 40 min - Prix € - Difficulté Facile
+Preparation: 30 min
+Cuisson: 40 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

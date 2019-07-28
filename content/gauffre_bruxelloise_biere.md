@@ -2,8 +2,10 @@ Title: Gauffre Bruxelloise à la bière
 Date: 2010-12-03 10:20
 Category: Patisserie
 Tags: Dessert,Calories
-
-Préparation 15 min - Cuisson 30 min - Prix € - Difficulté Facile
+Preparation: 15 min
+Cuisson: 30 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

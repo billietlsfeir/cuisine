@@ -2,8 +2,10 @@ Title: Appareil pour tarte au citron
 Date: 2010-12-03 10:20
 Category: Patisserie
 Tags: Dessert,Calories
-
-Préparation 10 min - Cuisson 1 h - Prix €€ - Difficulté Facile
+Preparation: 10 min
+Cuisson: 1 h
+Prix: €€
+Difficulte: Facile
 
 # Ingrédients
 

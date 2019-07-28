@@ -27,9 +27,17 @@
     <h2 class="entry-title">
       <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
          title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+        
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
   </header>
+  <div>
+    <p>
+      {% if article.photo and article.photo == "true" %}
+      <img width="65%" height="65%" src="{{static}}/images/{{ article.title }}.jpg" />
+      {% endif %}
+    </p>
+  </div>
   <footer class="post-info no-print">
     {% if article.authors %}
     <address class="vcard author">
@@ -51,6 +59,14 @@
         {% endfor %}
     </div>
     {% endif %}
+    <div>
+      {% if article.preparation %} Préparation : {{ article.preparation }} - {% endif %}
+      {% if article.cuisson %}     Cuisson     : {{ article.cuisson }} -     {% endif %}
+      {% if article.repos %}       Repos       : {{ article.repos }} -       {% endif %}
+      {% if article.prix %}        Prix        : {{ article.prix }} -        {% endif %}
+      {% if article.difficulte %}  Difficulté  : {{ article.difficulte }} -  {% endif %}
+      Bon appétit !
+    </div>
   </footer><!-- /.post-info -->
   <div class="entry-content">
     {{ article.content }}

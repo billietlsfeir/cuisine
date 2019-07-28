@@ -2,8 +2,9 @@ Title: Rose des vents
 Date: 2010-12-03 10:20
 Category: Dessert
 Tags: Dessert,Chocolat
-
-Préparation 1 h - Prix € - Difficulté Facile
+Preparation: 1 h
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

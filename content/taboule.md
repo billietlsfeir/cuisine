@@ -2,8 +2,10 @@ Title: Taboulé
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat,Été,Accompagnement
-
-Préparation 20 min - Repos 1 nuit - Prix € - Difficulté Facile
+Preparation: 20 min
+Repos: 1 nuit
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 

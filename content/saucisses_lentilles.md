@@ -2,8 +2,10 @@ Title: Saucisses aux lentilles
 Date: 2010-12-03 10:20
 Category: Plat
 Tags: Plat
-
-Préparation 10 min - Cuisson 30 min - Prix € - Difficulté Facile
+Preparation: 10 min
+Cuisson: 30 min
+Prix: €
+Difficulte: Facile
 
 # Ingrédients
 
