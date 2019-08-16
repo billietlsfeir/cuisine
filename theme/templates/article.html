@@ -34,7 +34,7 @@
   <div>
     <p>
       {% if article.photo and article.photo == "true" %}
-      <img width="65%" height="65%" src="{{static}}/images/{{ article.title }}.jpg" />
+      <img width="65%" height="65%" src="{{static}}/images/{{ article.title.replace(" ", "_") }}.jpg" />
       {% endif %}
     </p>
   </div>
