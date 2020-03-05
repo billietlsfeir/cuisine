@@ -17,6 +17,9 @@ jobs:
       run: |
         pip install -r requirements.txt -t pip
     - name: Render website
+      env:
+        PYTHONPATH: "pip"
+        XDG_CACHE_HOME: "pip-cache"
       run:
         pip/bin/pelican content -o output -s pelicanconf.py --relative-urls
     - name: Upload website to artifact
