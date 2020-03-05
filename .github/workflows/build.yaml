@@ -28,9 +28,7 @@ jobs:
     #     name: website
     #     path: output
     - name: Deploy to my server
-      if:
-        branch:
-        - master
+      if: github.ref == 'refs/heads/master'
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
         ftp-server: ${{ secrets.FTP_SERVER }}
