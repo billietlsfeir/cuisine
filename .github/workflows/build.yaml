@@ -22,17 +22,14 @@ jobs:
         XDG_CACHE_HOME: "pip-cache"
       run:
         pip/bin/pelican content -o output -s pelicanconf.py --relative-urls
-    # - name: Upload website to artifact
-    #   uses: actions/upload-artifact@v1
-    #   with:
-    #     name: website
-    #     path: output
-    - name: Deploy to my server
+
+    - name: deploy file to server
       if: github.ref == 'refs/heads/github'
-      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      uses: wlixcc/SFTP-Deploy-Action@v1.0
       with:
-        ftp-server: ${{ secrets.FTP_SERVER }}
-        ftp-username: ${{ secrets.FTP_USER }}
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: output
-        git-ftp-args: --insecure --remote-root=/www
+        username: ${{ secrets.FTP_USER }}
+        server: ${{ secrets.FTP_SERVER }}
+        ssh_private_key: ${{ secrets.FTP_KEY }}
+        local_path: './output/*'
+        remote_path: '/www'
+        args: '-o StrictHostKeyChecking=no'
