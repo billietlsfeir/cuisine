@@ -10,23 +10,13 @@ Photo: false
 
 # Ingrédients
 
-- 200 g de lait concentré sucré
-- 200 g de chocolat noir
-- 150 g de beurre salé
-- 100 g de farine
-- 3 œufs
-- 100 g noix
+- 3 concombres
+- 2 boites de thon
+- 1Kg de mayonnaise
+- 6 tranches de pain de mie
+- 12 piments d'espelette
+- 12 salades mâche
 
 # Instructions
 
-Préchauffez le four à 160 °C.
-
-Faites fondre dans une casserole le chocolat et le beurre.
-
-Mélangez dans un saladier les œufs avec le lait concentré, puis ajoutez peu à peu la farine.
-
-Ajoutez au mélange d'œufs le mélange de chocolat, puis les noix concassées.
-
-Enfournez pendant 20 minutes, puis laissez dans le four éteint 5 minutes.
-
-Laissez refroidir dans le plat avant de découper.
+Demande à Chuck Norris.
