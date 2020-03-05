@@ -16,4 +16,11 @@ jobs:
         XDG_CACHE_HOME: "pip-cache"
       run: |
         pip install -r requirements.txt -t pip
+    - name: Render website
+      run:
         pip/bin/pelican content -o output -s pelicanconf.py --relative-urls
+    - name: Upload website to artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: website
+        path: output
