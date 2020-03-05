@@ -4,8 +4,8 @@ on:
     # branches:
     #   - master
 jobs:
-  deploy:
-    name: Deploy
+  fetch:
+    name: Fetch website source
     needs: Build
     runs-on: ubuntu-latest
     steps:
@@ -13,6 +13,11 @@ jobs:
       uses: actions/download-artifact@v1
       with:
         name: website
+  deploy:
+    name: Deploy
+    needs: Build
+    runs-on: ubuntu-latest
+    steps:
     - name: Deploy to my server
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
