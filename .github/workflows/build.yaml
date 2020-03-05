@@ -1,0 +1,19 @@
+name: Build website
+on: [push]
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install pelican
+      env:
+        PYTHONPATH: "pip"
+        XDG_CACHE_HOME: "pip-cache"
+      run: |
+        pip install -r requirements.txt -t pip
+        pip/bin/pelican content -o output -s pelicanconf.py --relative-urls
